@@ -1,0 +1,4 @@
+gym
+rich
+gymnasium
+stable_baselines3
